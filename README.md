@@ -14,3 +14,9 @@ docker run -p 8069:8069 --name odoo9 --link db9:db9 -t qubiq/odoo-docker:9.0
 ```
 https://hub.docker.com/r/qubiq/odoo-docker
 ```
+
+```
+user: admin
+pasword: admin
+```
+
