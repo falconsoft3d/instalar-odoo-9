@@ -1,7 +1,4 @@
-# Instalación de Odoo 10
-
-![Alt text](https://github.com/falconsoft3d/instalar-odoo-10/blob/master/img/logo-ynext.png?raw=true "Ynext")
-
+# Instalación de Odoo 9
 ---------------------
 ## 1- Configuramos la zona horaria del server
 
