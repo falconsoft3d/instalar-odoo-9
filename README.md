@@ -1,11 +1,4 @@
-# Instalación de Odoo 9
----------------------
-## 1- Configuramos la zona horaria del server
-
-```linux
-sudo dpkg-reconfigure tzdata
-sudo apt-get install python-dev
-```
+# Instalación de Odoo 9.0
 
 ## Instalamos Python 2.7
 ```linux
