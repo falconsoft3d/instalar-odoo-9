@@ -295,7 +295,7 @@ nano /etc/init.d/odoo
 ## 20- Modificamos los siguientes valores, y guardamos el archivo:
 
 ```linux
-DAEMON=/opt/odoo/server/odoo/odoo.py
+DAEMON=/opt/odoo/server/openerp-server
 ```
 
 
