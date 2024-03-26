@@ -64,7 +64,7 @@ apt-get install unzip
 ## 9- Instalación de librerias, actualizamos pip e instalamos dependencias python de Odoo
 
 ```linux
-apt install python-pip libcups2-dev libxml2-dev libxslt-dev node-less libsasl2-dev libldap2-dev python-lxml -y
+sudo apt-get install build-essential libssl-dev libffi-dev
 ```
 
 ---------------------
